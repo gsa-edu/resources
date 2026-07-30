@@ -7,7 +7,8 @@
 # Contributors
 ## Sequence alignment demonstration
 
-**Contributor:** Hardip Patel, Australian National University, ACT. 
+**Contributor:** Hardip Patel, Australian National University, ACT.  
+
 **Description:** `sequence-alignment.html` is a widget to demonstrate local and global sequence alignments.  
 
 
