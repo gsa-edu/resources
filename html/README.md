@@ -5,9 +5,10 @@
 - There should not be any external dependency requirements.
 
 # Contributors
-## Sequence alignment demonstration widget
+## Sequence alignment demonstration
 
-**Contributor:** Hardip Patel, Australian National University, ACT
-**Description:** `sequence-alignment.html` is a widget to demonstrate local and global sequence alignments.
+**Contributor:** Hardip Patel, Australian National University, ACT. 
+**Description:** `sequence-alignment.html` is a widget to demonstrate local and global sequence alignments.  
+
 
 
